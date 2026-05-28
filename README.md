@@ -1,6 +1,13 @@
 # Bdm-ai-agent
 # BDM AI Agent – Sales Workflow & Pipeline Optimization System
 
+## Demo Scenario
+
+This example demonstrates the agent:
+- Extracting data from pipeline reports
+- Identifying top sales performers
+- Generating personalized outreach emails
+
 ## Overview
 This project is an AI-driven Business Development Manager (BDM) agent designed to streamline pipeline management, improve seller execution, and automate key aspects of the sales workflow.
 
